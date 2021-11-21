@@ -1,0 +1,31 @@
+const Categories = [
+  {
+    category: "Conhecimentos Gerais",
+    value: 9,
+  },
+  { category: "Livros", value: 10 },
+  { category: "Fimes", value: 11 },
+  { category: "Música", value: 12 },
+  { category: "Musicais e Teatro", value: 13 },
+  { category: "Televisão", value: 14 },
+  { category: "Vídeo Games", value: 15 },
+  { category: "Jogos de Tabuleiro", value: 16 },
+  { category: "Ciência e Natureza", value: 17 },
+  { category: "Computadores", value: 18 },
+  { category: "Matemática", value: 19 },
+  { category: "Mitologia", value: 20 },
+  { category: "Esportes", value: 21 },
+  { category: "Geografia", value: 22 },
+  { category: "História", value: 23 },
+  { category: "Política", value: 24 },
+  // { category: "Art", value: 25 },
+  { category: "Celebridades", value: 26 },
+  { category: "Animais", value: 27 },
+  { category: "Veículos", value: 28 },
+  { category: "Quadrinhos", value: 29 },
+  { category: "Acessórios", value: 30 },
+  { category: "Animes", value: 31 },
+  { category: "Desenhos e Animações", value: 32 },
+];
+
+export default Categories;

@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Poppins:wght@200;300&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.app {
+  min-height: 98.5vh;
+  border-radius: 15px;
+  border-color: #0FCDC8;
+  border-style: solid;
+  border-width: 6px;
+  padding: 5px;
+}

@@ -1,0 +1,14 @@
+.result {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 60vh;
+    text-align: center;
+}
+
+.title {
+    font-size: 8vh;
+    font-family: 'Poppins', sans-serif;
+    color: #0079DE;
+    font-weight: bold;
+}
