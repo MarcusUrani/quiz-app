@@ -4,9 +4,14 @@ Quiz com 15 perguntas, em que é possível selecionar dificuldade e categorias d
 
 ## Tecnologias Utilizadas
 
+<<<<<<< HEAD
 - React: Linguagem utilizada para o desenvolvimento do projeto.
 - MaterailUi: Biblioteca utilizada para estilição da página e utilização de componentes prontos.
 - Ope Trivia API: API utilizada para busca de dados das questões.
+=======
+Para usar a aplicação, primeiro entre neste link: https://appquizreact.netlify.app
+Ao entrar no link, será apresentada a página inícial, onde é possível adicionar nome, selecionar categoria e dificuldade, feito isso, basta clicar em iniciar, para dar início ao quiz, cada partida possui um total de 15 perguntas só será possível iniciar após o preenchimento de todos os campos.
+>>>>>>> d0e11a8a441aea138c85f83d7cdfb0b64ae4e63f
 
 ## Como usar?
 
