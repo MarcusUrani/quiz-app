@@ -10,6 +10,8 @@ Quiz com 15 perguntas, em que é possível selecionar dificuldade e categorias d
 
 - React <img align="center" alt="Marcus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
+- React <img align="center" alt="Marcus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
 - MaterailUi: Biblioteca utilizada para estilição da página e utilização de componentes prontos.
 
 - Ope Trivia API: API utilizada para busca de dados das questões.
